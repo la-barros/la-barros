@@ -5,7 +5,7 @@
 
 <h2 align="center"> Olá!!🤙, eu sou Luiz Augusto!!</h1>
 
-- Sou formado em Engenharia Elétrica, estou cursando **Analises de desenvolvimento de sistemas** e em paralelo estou cursando a pós em **Engenharia de Software com Ênfase em Qualidade e Teste** 📚
+- Sou formado em Engenharia Elétrica, estou cursando **Analises de desenvolvimento de sistemas** e em paralelo estou cursando a pós em **Engenharia de Software com ênfase em Qualidade e Teste** 📚
 
 - Participei do curso de **Quality Assurance** do programa Qa.Coders Academy, promovido pela Qa.Coders 📚
 

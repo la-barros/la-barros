@@ -24,8 +24,12 @@
 <div>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code> 
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg"></code>
 <br/>
+
+
 
 ## *Tecnologias*:
 <code><img height="30" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg"></code>

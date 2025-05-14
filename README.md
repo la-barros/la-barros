@@ -6,9 +6,9 @@
 </div>
 <h2 align="center"> Olá!!🤙, eu sou Luiz Augusto!!</h1>
 
-- Sou formado em Engenharia Elétrica, estou cursando **Analises de desenvolvimento de sistemas** e em paralelo estou cursando a pós em **Engenharia de Software com ênfase em Qualidade e Teste** 📚
+- Sou formado em **Engenharia Elétrica**, em **Analises de desenvolvimento de sistemas** e pós-graduado em **Engenharia de Software com ênfase em Qualidade e Teste** 📚
 
-- Participei do curso de **Quality Assurance** do programa Qa.Coders Academy, promovido pela Qa.Coders 📚
+- Participei do curso de **Quality Assurance** do programa **Qa.Coders Academy**, promovido pela Qa.Coders 📚
 
 - Participei do Bootcamp **Avanti na trilha de Quality Assurance**, promovido pelo Instituto Atlântico 📚
 
@@ -19,9 +19,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=la-barros&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=la-barros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=la-barros&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=la-barros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph" />
 </div>
+
+
 
 
 ## *Ferramentas*:
